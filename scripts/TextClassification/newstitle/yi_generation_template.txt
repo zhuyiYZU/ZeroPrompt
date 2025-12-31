@@ -1,0 +1,10 @@
+This is a piece of news regarding {"mask"}: {"placeholder": "text_a"}.
+An article on {"mask"} has been released: {"placeholder": "text_a"}.
+There's a new development concerning {"mask"}: {"placeholder": "text_a"}.
+This news is about {"mask"}: {"placeholder": "text_a"}.
+A report on {"mask"} is making headlines: {"placeholder": "text_a"}.
+The latest update is about {"mask"}: {"placeholder": "text_a"}.
+A story on {"mask"} has been shared: {"placeholder": "text_a"}.
+This is a recent piece of information about {"mask"}: {"placeholder": "text_a"}.
+An announcement regarding {"mask"} has been made: {"placeholder": "text_a"}.
+The current topic of discussion is {"mask"}]: {"placeholder": "text_a"}.

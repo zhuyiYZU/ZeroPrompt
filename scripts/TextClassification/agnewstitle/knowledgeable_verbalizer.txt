@@ -1,0 +1,4 @@
+world,globe,country,continent,global,worldwide,worlds,planet,countries,nations,mankind,region,hemisphere,humankind,universe,international
+sports,sporting,athletics,football,soccer,soccer,baseball,basketball,hockey,tennis,tennis,athlete,boxing,golf,leagues,cycling
+business,shop,employment,shopping,employee,job,restaurant,downtown,hire,traffic,working,coursework,errands,labor,employ,employed
+technology,technologies,innovations,innovation,software,nanotechnology,solutions,innovative,devices,robotics,products,biotechnology,automation,applications,biomedical,digital

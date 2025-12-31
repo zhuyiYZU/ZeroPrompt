@@ -1,0 +1,5 @@
+ A {"mask"} news : {"placeholder": "text_a"}
+ {"placeholder": "text_a"} This topic is about {"mask"} .
+ The category of {"placeholder": "text_a"} is {"mask"}.
+ [ Topic : {"mask"} ] {"placeholder": "text_a"}
+

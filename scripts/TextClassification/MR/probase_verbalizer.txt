@@ -1,0 +1,2 @@
+positive,confident,optimistic,plus,affirmative,constructive,favorable,electropositive,negative,sure,certain,positivity,positively,irrefutable,confirming,cocksure,convinced,prescribed,incontrovertible,positivist,overconfident,positivistic
+negative,unfavorable,minus,destructive,unfavourable,electronegative,positive,veto,pessimistic,damaging,bad,negatively,blackball,disconfirming,nay,denial,contradict,counter,dissenting,dissentient,antagonistic,perverse,disadvantageous

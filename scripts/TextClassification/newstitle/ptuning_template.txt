@@ -1,0 +1,5 @@
+{"soft": "<soft>"} {"mask": "<mask>"}{"soft": "<soft>"} {"placeholder": "text_a"}
+{"soft"} {"mask"} {"soft"} {"placeholder": "text_a"} {"soft"} {"placeholder": "text_b"}
+{"placeholder": "text_a"} {"placeholder": "text_b"} {"soft"}{"soft"} {"soft"} {"mask"} {"soft"}.
+{"soft"} {"soft"} {"mask"} {"soft"} {"placeholder": "text_a"} {"placeholder": "text_b"}
+{"soft"}  {"soft"} {"mask"} {"soft"} {"placeholder": "text_a"} {"placeholder": "text_b"}

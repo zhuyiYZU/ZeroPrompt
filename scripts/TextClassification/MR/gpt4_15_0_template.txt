@@ -1,0 +1,15 @@
+The emotion conveyed here is {"mask"}: {"placeholder": "text_a"}
+This text reflects a feeling of {"mask"}: {"placeholder": "text_a"}
+One could interpret the sentiment as {"mask"}: {"placeholder": "text_a"}
+The tone of this sentence can be described as {"mask"}: {"placeholder": "text_a"}
+This statement evokes {"mask"}: {"placeholder": "text_a"}
+The underlying emotion appears to be {"mask"}: {"placeholder": "text_a"}
+This phrase encapsulates the mood of {"mask"}: {"placeholder": "text_a"}
+The dominant feeling here is {"mask"}: {"placeholder": "text_a"}
+The message resonates with {"mask"}: {"placeholder": "text_a"}
+The emotional undertone is {"mask"}: {"placeholder": "text_a"}
+This sentiment aligns with {"mask"}: {"placeholder": "text_a"}
+This example portrays {"mask"}: {"placeholder": "text_a"}
+An emotional reading might classify this as {"mask"}: {"placeholder": "text_a"}
+The emotional impact of this text is {"mask"}: {"placeholder": "text_a"}
+This expression suggests {"mask"}: {"placeholder": "text_a"}

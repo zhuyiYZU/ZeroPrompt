@@ -1,0 +1,10 @@
+This is a sentence where the emotion of {"mask"} is conveyed: {"placeholder": "text_a"}.
+A sentence that communicates the feeling of {"mask"} is presented here: {"placeholder": "text_a"}.
+The emotion denoted by {"mask"} is expressed in this sentence: {"placeholder": "text_a"}.
+This sentence is about the sentiment of {"mask"}: {"placeholder": "text_a"}.
+An utterance that captures the essence of {"mask"} is uttered: {"placeholder": "text_a"}.
+The feeling of {"mask"} is encapsulated within this statement: {"placeholder": "text_a"}.
+This is a sentence that reflects the emotion of {"mask"}: {"placeholder": "text_a"}.
+A statement that embodies the feeling of {"mask"} is made: {"placeholder": "text_a"}.
+The sentiment of {"mask"} is articulated in this sentence: {"placeholder": "text_a"}.
+This is a sentence that conveys the emotion of {"mask"}: {"placeholder": "text_a"}.
